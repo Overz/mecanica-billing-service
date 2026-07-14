@@ -1,5 +1,8 @@
 # mecanica-billing-service
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mecanica_billing-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mecanica_billing-service)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=mecanica_billing-service&metric=coverage)](https://sonarcloud.io/summary/new_code?id=mecanica_billing-service)
+
 > Responsável pela geração de orçamentos e processamento de pagamentos via Mercado Pago na Fase 4 (Grupo 14SOAT).
 
 ## Responsabilidade na Saga
